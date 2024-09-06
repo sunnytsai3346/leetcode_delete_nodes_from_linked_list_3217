@@ -1,0 +1,2 @@
+# leetcode_delete_nodes_from_linked_list_3217
+delete_nodes_from_linked_list_present_in_array
