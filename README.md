@@ -1,5 +1,6 @@
 # leetcode_delete_nodes_from_linked_list_3217
-delete_nodes_from_linked_list_present_in_array
+delete_nodes_from_single linked_list_present_in_array
+
 You are given an array of integers nums and the head of a linked list. Return the head of the modified linked list after removing all nodes from the linked list that have a value that exists in nums.
 
  
